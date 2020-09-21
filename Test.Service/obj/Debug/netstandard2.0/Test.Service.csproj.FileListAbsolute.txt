@@ -1,0 +1,42 @@
+E:\SSL-Test\s3\Web\Server\Test.Service\bin\Debug\netstandard2.0\Test.Service.deps.json
+E:\SSL-Test\s3\Web\Server\Test.Service\bin\Debug\netstandard2.0\Test.Service.dll
+E:\SSL-Test\s3\Web\Server\Test.Service\bin\Debug\netstandard2.0\Test.Service.pdb
+E:\SSL-Test\s3\Web\Server\Test.Service\bin\Debug\netstandard2.0\Test.Entities.dll
+E:\SSL-Test\s3\Web\Server\Test.Service\bin\Debug\netstandard2.0\Test.Repository.dll
+E:\SSL-Test\s3\Web\Server\Test.Service\bin\Debug\netstandard2.0\Test.Entities.pdb
+E:\SSL-Test\s3\Web\Server\Test.Service\bin\Debug\netstandard2.0\Test.Repository.pdb
+E:\SSL-Test\s3\Web\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.csprojAssemblyReference.cache
+E:\SSL-Test\s3\Web\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.csproj.CoreCompileInputs.cache
+E:\SSL-Test\s3\Web\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.AssemblyInfoInputs.cache
+E:\SSL-Test\s3\Web\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.AssemblyInfo.cs
+E:\SSL-Test\s3\Web\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.csproj.CopyComplete
+E:\SSL-Test\s3\Web\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.dll
+E:\SSL-Test\s3\Web\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.pdb
+D:\Core 2.2\Server\Test.Service\bin\Debug\netstandard2.0\Test.Service.deps.json
+D:\Core 2.2\Server\Test.Service\bin\Debug\netstandard2.0\Test.Service.dll
+D:\Core 2.2\Server\Test.Service\bin\Debug\netstandard2.0\Test.Service.pdb
+D:\Core 2.2\Server\Test.Service\bin\Debug\netstandard2.0\Test.Entities.dll
+D:\Core 2.2\Server\Test.Service\bin\Debug\netstandard2.0\Test.Repository.dll
+D:\Core 2.2\Server\Test.Service\bin\Debug\netstandard2.0\Test.Entities.pdb
+D:\Core 2.2\Server\Test.Service\bin\Debug\netstandard2.0\Test.Repository.pdb
+D:\Core 2.2\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.csprojAssemblyReference.cache
+D:\Core 2.2\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.AssemblyInfoInputs.cache
+D:\Core 2.2\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.AssemblyInfo.cs
+D:\Core 2.2\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.csproj.CopyComplete
+D:\Core 2.2\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.dll
+D:\Core 2.2\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.pdb
+D:\Core 2.2\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.csproj.CoreCompileInputs.cache
+D:\Core 3.0.1\PIT Test\Server\Test.Service\bin\Debug\netstandard2.0\Test.Service.deps.json
+D:\Core 3.0.1\PIT Test\Server\Test.Service\bin\Debug\netstandard2.0\Test.Service.dll
+D:\Core 3.0.1\PIT Test\Server\Test.Service\bin\Debug\netstandard2.0\Test.Service.pdb
+D:\Core 3.0.1\PIT Test\Server\Test.Service\bin\Debug\netstandard2.0\Test.Entities.dll
+D:\Core 3.0.1\PIT Test\Server\Test.Service\bin\Debug\netstandard2.0\Test.Repository.dll
+D:\Core 3.0.1\PIT Test\Server\Test.Service\bin\Debug\netstandard2.0\Test.Entities.pdb
+D:\Core 3.0.1\PIT Test\Server\Test.Service\bin\Debug\netstandard2.0\Test.Repository.pdb
+D:\Core 3.0.1\PIT Test\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.csprojAssemblyReference.cache
+D:\Core 3.0.1\PIT Test\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.AssemblyInfoInputs.cache
+D:\Core 3.0.1\PIT Test\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.AssemblyInfo.cs
+D:\Core 3.0.1\PIT Test\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.csproj.CoreCompileInputs.cache
+D:\Core 3.0.1\PIT Test\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.csproj.CopyComplete
+D:\Core 3.0.1\PIT Test\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.dll
+D:\Core 3.0.1\PIT Test\Server\Test.Service\obj\Debug\netstandard2.0\Test.Service.pdb

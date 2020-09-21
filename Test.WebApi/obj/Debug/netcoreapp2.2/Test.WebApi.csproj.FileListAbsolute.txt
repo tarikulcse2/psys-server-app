@@ -1,0 +1,61 @@
+E:\SSL-Test\MisFit\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.deps.json
+E:\SSL-Test\MisFit\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.runtimeconfig.json
+E:\SSL-Test\MisFit\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.runtimeconfig.dev.json
+E:\SSL-Test\MisFit\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.dll
+E:\SSL-Test\MisFit\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.pdb
+E:\SSL-Test\MisFit\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Entities.dll
+E:\SSL-Test\MisFit\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Repository.dll
+E:\SSL-Test\MisFit\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Entities.pdb
+E:\SSL-Test\MisFit\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Repository.pdb
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.csprojAssemblyReference.cache
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.csproj.CoreCompileInputs.cache
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.RazorAssemblyInfo.cache
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.RazorAssemblyInfo.cs
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.AssemblyInfoInputs.cache
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.AssemblyInfo.cs
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.RazorTargetAssemblyInfo.cache
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.csproj.CopyComplete
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.dll
+E:\SSL-Test\MisFit\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.pdb
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.dll
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.pdb
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.deps.json
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.runtimeconfig.json
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.runtimeconfig.dev.json
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.dll
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.pdb
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Entities.dll
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Repository.dll
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Entities.pdb
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Repository.pdb
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.csprojAssemblyReference.cache
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.csproj.CoreCompileInputs.cache
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.RazorAssemblyInfo.cache
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.RazorAssemblyInfo.cs
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.AssemblyInfoInputs.cache
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.AssemblyInfo.cs
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.RazorTargetAssemblyInfo.cache
+E:\SSL-Test\s3\Web\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.csproj.CopyComplete
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Service.dll
+E:\SSL-Test\s3\Web\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Service.pdb
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.deps.json
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.runtimeconfig.json
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.runtimeconfig.dev.json
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.dll
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.WebApi.pdb
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Entities.dll
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Repository.dll
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Service.dll
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Entities.pdb
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Service.pdb
+D:\Core 2.2\Server\Test.WebApi\bin\Debug\netcoreapp2.2\Test.Repository.pdb
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.csprojAssemblyReference.cache
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.RazorAssemblyInfo.cache
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.RazorAssemblyInfo.cs
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.AssemblyInfoInputs.cache
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.AssemblyInfo.cs
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.RazorTargetAssemblyInfo.cache
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.csproj.CopyComplete
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.dll
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.pdb
+D:\Core 2.2\Server\Test.WebApi\obj\Debug\netcoreapp2.2\Test.WebApi.csproj.CoreCompileInputs.cache

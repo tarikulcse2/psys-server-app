@@ -1,0 +1,48 @@
+E:\SSL-Test\MisFit\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.deps.json
+E:\SSL-Test\MisFit\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.dll
+E:\SSL-Test\MisFit\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.pdb
+E:\SSL-Test\MisFit\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Entities.dll
+E:\SSL-Test\MisFit\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Entities.pdb
+E:\SSL-Test\MisFit\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csprojAssemblyReference.cache
+E:\SSL-Test\MisFit\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csproj.CoreCompileInputs.cache
+E:\SSL-Test\MisFit\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.AssemblyInfoInputs.cache
+E:\SSL-Test\MisFit\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.AssemblyInfo.cs
+E:\SSL-Test\MisFit\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csproj.CopyComplete
+E:\SSL-Test\MisFit\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.dll
+E:\SSL-Test\MisFit\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.pdb
+E:\SSL-Test\s3\Web\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csprojAssemblyReference.cache
+E:\SSL-Test\s3\Web\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csproj.CoreCompileInputs.cache
+E:\SSL-Test\s3\Web\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.AssemblyInfoInputs.cache
+E:\SSL-Test\s3\Web\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.AssemblyInfo.cs
+E:\SSL-Test\s3\Web\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.dll
+E:\SSL-Test\s3\Web\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.pdb
+E:\SSL-Test\s3\Web\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.deps.json
+E:\SSL-Test\s3\Web\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.dll
+E:\SSL-Test\s3\Web\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.pdb
+E:\SSL-Test\s3\Web\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Entities.dll
+E:\SSL-Test\s3\Web\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Entities.pdb
+E:\SSL-Test\s3\Web\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csproj.CopyComplete
+D:\Core 2.2\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.deps.json
+D:\Core 2.2\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.dll
+D:\Core 2.2\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.pdb
+D:\Core 2.2\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Entities.dll
+D:\Core 2.2\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Entities.pdb
+D:\Core 2.2\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csprojAssemblyReference.cache
+D:\Core 2.2\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.AssemblyInfoInputs.cache
+D:\Core 2.2\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.AssemblyInfo.cs
+D:\Core 2.2\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csproj.CopyComplete
+D:\Core 2.2\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.dll
+D:\Core 2.2\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.pdb
+D:\Core 2.2\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csproj.CoreCompileInputs.cache
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.deps.json
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.dll
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Repository.pdb
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Entities.dll
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\bin\Debug\netstandard2.0\Test.Entities.pdb
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csprojAssemblyReference.cache
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.AssemblyInfoInputs.cache
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.AssemblyInfo.cs
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csproj.CoreCompileInputs.cache
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.csproj.CopyComplete
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.dll
+D:\Core 3.0.1\PIT Test\Server\Test.Repository\obj\Debug\netstandard2.0\Test.Repository.pdb
